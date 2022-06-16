@@ -1,14 +1,14 @@
 # 자기소개
 
-# 이름 
+# name 
 
-양형모
+Yanghyungmo
 
 
 
 # 성별
 
-남
+male
 
 
 
@@ -20,4 +20,4 @@ intj
 
 # 나이
 
-마음은 20살
+secret
